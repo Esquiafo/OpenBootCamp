@@ -4,6 +4,7 @@
   "description": "Crea un nuevo proyecto de Node, y dentro del package.json crea un script que muestre por pantalla \"Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo\".",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Leonardo Capone",
