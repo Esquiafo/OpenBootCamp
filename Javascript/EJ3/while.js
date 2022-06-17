@@ -1,10 +1,10 @@
-let factorial = 1;
-let count=1;
-while (count!==11) {
+let factorial = 10;
+let sum=1;
+while (factorial!==1) {
 
-        factorial*=count;
-        count++;
+        sum*=factorial;
+        factorial--;
     
     
 }
-console.log(factorial);
+console.log(sum);

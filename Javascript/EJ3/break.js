@@ -1,12 +1,12 @@
-let i = 1;
-let factorial=1
+let factorial=10
+let sum=1
 while (true) {
     
-    factorial*=i;
-    i++;
-  if (i === 11) {
+    sum*=factorial;
+    factorial--;
+  if (factorial === 1) {
     break;
   }
 
 }
-console.log(factorial)
+console.log(sum)
