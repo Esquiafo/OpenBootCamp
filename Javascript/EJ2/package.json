@@ -1,0 +1,12 @@
+{
+  "name": "ej2",
+  "version": "1.0.0",
+  "description": "Crea un nuevo archivo JS que contenga una lista con los siguientes elementos:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Capone",
+  "license": "ISC"
+}
